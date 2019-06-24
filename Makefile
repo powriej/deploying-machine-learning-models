@@ -1,4 +1,4 @@
-NAME=udemy-ml-api
+NAME=udemy-deploying-ml-models
 COMMIT_ID=$(shell git rev-parse HEAD)
 
 
