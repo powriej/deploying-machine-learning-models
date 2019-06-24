@@ -20,4 +20,4 @@ USER ml-api-user
 
 EXPOSE 5000
 
-ENTRYPOINT ["bash", "./run.sh"]
+CMD ["bash", "./run.sh"]
